@@ -59,9 +59,9 @@ class Food :
         """ set_calories"""
         self.calories = calories
 
-    # def set_fat(self, fat ):
-    #     """ set_fat"""
-    #     self.fat = fat
+    def set_fat(self, fat ):
+        """ set_fat"""
+        self.fat = fat
 
     # def set_carb(self, carb):
     #     """ set_carb"""
